@@ -8,6 +8,6 @@
  # DAY 2 - 19 may 2020
   completed 2nd module and solved all the review question 
   
- # DAY 1 - 20 may 2020
+ # DAY 3 - 20 may 2020
   completed 3rd module and solved all the review question 
  
