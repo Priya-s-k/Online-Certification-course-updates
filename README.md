@@ -17,3 +17,7 @@
  # DAY 5 - 22 may 2020
   completed 5th module and solved all the review question 
   
+# DAY 6 - 23 may 2020
+   completed the course and final exam with 95% of marks.
+   earned certificate and badge.
+  
